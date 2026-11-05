@@ -1,0 +1,28 @@
+body{
+  background-color: bisque;
+  
+}
+
+.panel{
+  background-color: rgb(255, 243, 227);
+  border: 1px solid black; 
+  max-width: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0px auto;
+  gap: 10px;
+  
+}
+
+button{
+  background-color: rgba(22, 119, 22, 0.705);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  width: 350px;
+  padding: 10px;
+}
